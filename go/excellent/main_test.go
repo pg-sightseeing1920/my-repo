@@ -1,5 +1,3 @@
-// File: go/excellent/main_test.go
-
 package main
 
 import "testing"
